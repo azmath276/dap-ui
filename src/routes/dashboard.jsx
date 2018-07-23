@@ -14,6 +14,12 @@ const dashboardRoutes = [
     icon: "pe-7s-graph",
     component: Dashboard
   },
+    {
+    path: "/advertisement",
+    name: "Dashboard",
+    icon: "pe-7s-graph",
+    component: Dashboard
+  },
   {
     path: "/user",
     name: "User Profile",
